@@ -1,3 +1,6 @@
+
+#python3 final_proba_model.py 1bdm Caf.mol2 "CN1C=NC2=C1C(=O)N(N(C(=O)N2C)C" lys
+#into 2 
 import sys
 import json
 

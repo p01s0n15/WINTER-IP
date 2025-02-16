@@ -1,4 +1,4 @@
-==== Secondary Structure Definition by the program DSSP, CMBI version 2.0                          ==== DATE=2025-02-09        .
+==== Secondary Structure Definition by the program DSSP, CMBI version 2.0                          ==== DATE=2025-02-16        .
 REFERENCE W. KABSCH AND C.SANDER, BIOPOLYMERS 22 (1983) 2577-2637                                                              .
 HEADER    OXIDOREDUCTASE(NAD(A)-CHOH(D))          16-FEB-93   1BDM                                                             .
 COMPND    MOL_ID: 1; MOLECULE: MALATE DEHYDROGENASE; CHAIN: A, B; EC: 1.1.1.37;                                                .
